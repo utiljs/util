@@ -1,2 +1,2 @@
 # Util.js
-A modern JavaScript utility library
+A JavaScript utility library
